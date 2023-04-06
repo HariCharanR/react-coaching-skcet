@@ -1,0 +1,21 @@
+{
+    
+        "user":[
+            {
+                "id" : 1,
+                "name": "Atomic Habits",
+                "author" : "James clear"
+            },
+            {
+                "id" : 2,
+                "name":"Real World Survival",
+                "author" : "haricharan"
+            },
+            {
+                "id":3,
+                "name":"Humor 101",
+                "author":"haricharan"
+            }
+        ]
+    
+}
